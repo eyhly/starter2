@@ -1,0 +1,98 @@
+{
+    "navbar": {
+        "logo": "/images/logo.webp",
+        "menu": [
+            { "label": "Home", "link": "#home" },
+            { "label": "Promo", "link": "#promo" },
+            { "label": "Product", "link": "#product" },
+            { "label": "Gallery", "link": "#galeri" }
+        ]
+    },
+        "home":
+    {
+         "title": "Dapatkan Mobil Suzuki Impianmu dengan Penawaran Terbaik!",
+         "desc": "Temukan berbagai pilihan mobil Suzuki dengan harga terbaik, promo menarik, dan layanan profesional. Nikmati kenyamanan, performa, dan keamanan dalam setiap perjalanan. Kunjungi dealer kami sekarang dan wujudkan impian berkendara Anda!",
+         "service": [
+            {"title": "Free Consultation", "desc": "Kami siap menjawab pertanyaan anda melalui Whatsapp 24/7"},
+            {"title": "Information", "desc": "Tersedia informasi promo terupdate dan Diskon terbaru."},
+            {"title": "Credit", "desc": "Pilih paket kredit yang terbaik untuk anda."},
+            {"title": "Trade In", "desc": "Kini kamu bisa tukar tambah mobil dengan mudah di Suzuki."}
+         ]
+    },
+    "promo": [
+          {
+            "image": "/images/promo1.webp",      
+            "alt": "Promo 1"
+          },
+          {
+            "image": "/images/promo2.webp",      
+            "alt": "Promo 2"
+          },
+          {
+            "image": "/images/promo3.webp",      
+            "alt": "Promo 3"
+          },
+          {
+            "image": "/images/promo4.webp",      
+            "alt": "Promo 4"
+          },
+          {
+            "image": "/images/promo5.webp",      
+            "alt": "Promo 5"
+          }
+    ],
+    "products": [
+      {
+        "image": "/images/product.webp",
+        "title": "New Ertiga",
+        "price": "💸 Start from 500.000.000 IDR",
+        "description": "Get your special offer!"
+      },
+      {
+        "image": "/images/product.webp",
+        "title": "XL7 Alpha",
+        "price": "💸 Start from 450.000.000 IDR",
+        "description": "Limited stock available!"
+      },
+      {
+        "image": "/images/product.webp",
+        "title": "XL7 Alpha",
+        "price": "💸 Start from 450.000.000 IDR",
+        "description": "Limited stock available!"
+      }
+    ],
+    "gallery": [
+      { "image": "/images/aman.webp", "alt": "Gallery 1", "title":"Aman Terpercaya" },
+      { "image": "/images/proses.webp", "alt": "Gallery 2", "title":"Proses Cepat" },
+      { "image": "/images/jabat.webp", "alt": "Gallery 3", "title":"Solusi Terbaik" },
+      { "image": "/images/puas.webp", "alt": "Gallery 4", "title":"Kepuasan" }
+    ],
+    "services": [
+      {
+        "title": "Free Consultation",
+        "desc": "Kami siap menjawab pertanyaan anda melalui Whatsapp 24/7",
+        "icon": "FaComments"
+      },
+      {
+        "title": "Information",
+        "desc": "Tersedia informasi promo terupdate dan Diskon terbaru.",
+        "icon": "FaInfoCircle"
+      },
+      {
+        "title": "Credit",
+        "desc": "Pilih paket kredit yang terbaik untuk anda.",
+        "icon": "FaCreditCard"
+      },
+      {
+        "title": "Trade In",
+        "desc": "Kini kamu bisa tukar tambah mobil dengan mudah di Suzuki.",
+        "icon": "FaHandHoldingHand"
+      }
+    ],
+     "sections" : [
+      { "id": "home", "component": "Home" },
+      { "id": "promo", "component": "Promo" },
+      { "id": "product", "component": "Product" },
+      { "id": "galeri", "component": "Gallery" }
+     ]
+}
