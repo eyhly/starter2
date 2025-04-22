@@ -27,7 +27,7 @@ const Product = () => {
 
   return (
     <div className="text-center py-30 bg-white">
-  <h1 className="text-4xl font-bold mb-2">Product Suzuki</h1>
+  <h1 className="text-4xl sm:text-1xl font-bold mb-2">Product Suzuki</h1>
    <div className="w-1/4 h-1 mx-auto bg-red-800 mb-12"></div>
 
   <div ref={contentRef}
@@ -36,7 +36,7 @@ const Product = () => {
         }`}>
 
     {data.products.map((product, i) => (
-    <div className="bg-white rounded-xl shadow-md p-6 w-150 hover:shadow-xl transition-all duration-300">
+    <div className="bg-white rounded-xl shadow-md p-6  hover:shadow-xl transition-all duration-300">
       <div key={i} className="bg-white p-4 rounded shadow">
         <img src={product.image} alt={product.title} className="w-full h-auto mb-4 mt-4" />
         <h3  className="text-3xl font-bold mb-4 mt-4">{product.title}</h3>

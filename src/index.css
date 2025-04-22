@@ -15,6 +15,12 @@
   color: black;
 }
 
+.button-nav{
+  background-color: transparent;
+  padding: 10px, 5px, 10px, 5px;
+  color: #A31D1D;
+}
+
 .footer{
   background-color: #A31D1D;
 }

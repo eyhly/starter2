@@ -1,6 +1,6 @@
 {
     "navbar": {
-        "logo": "/images/logo.webp",
+        "logo": "/starter2/images/logo.webp",
         "menu": [
             { "label": "Home", "link": "#home" },
             { "label": "Promo", "link": "#promo" },
@@ -21,51 +21,51 @@
     },
     "promo": [
           {
-            "image": "/images/promo1.webp",      
+            "image": "/starter2/images/promo1.webp",      
             "alt": "Promo 1"
           },
           {
-            "image": "/images/promo2.webp",      
+            "image": "/starter2/images/promo2.webp",      
             "alt": "Promo 2"
           },
           {
-            "image": "/images/promo3.webp",      
+            "image": "/starter2/images/promo3.webp",      
             "alt": "Promo 3"
           },
           {
-            "image": "/images/promo4.webp",      
+            "image": "/starter2/images/promo4.webp",      
             "alt": "Promo 4"
           },
           {
-            "image": "/images/promo5.webp",      
+            "image": "/starter2/images/promo5.webp",      
             "alt": "Promo 5"
           }
     ],
     "products": [
       {
-        "image": "/images/product.webp",
+        "image": "/starter2/images/product.webp",
         "title": "New Ertiga",
         "price": "💸 Start from 500.000.000 IDR",
         "description": "Get your special offer!"
       },
       {
-        "image": "/images/product.webp",
+        "image": "/starter2/images/product.webp",
         "title": "XL7 Alpha",
         "price": "💸 Start from 450.000.000 IDR",
         "description": "Limited stock available!"
       },
       {
-        "image": "/images/product.webp",
+        "image": "/starter2/images/product.webp",
         "title": "XL7 Alpha",
         "price": "💸 Start from 450.000.000 IDR",
         "description": "Limited stock available!"
       }
     ],
     "gallery": [
-      { "image": "/images/aman.webp", "alt": "Gallery 1", "title":"Aman Terpercaya" },
-      { "image": "/images/proses.webp", "alt": "Gallery 2", "title":"Proses Cepat" },
-      { "image": "/images/jabat.webp", "alt": "Gallery 3", "title":"Solusi Terbaik" },
-      { "image": "/images/puas.webp", "alt": "Gallery 4", "title":"Kepuasan" }
+      { "image": "/starter2/images/aman.webp", "alt": "Gallery 1", "title":"Aman Terpercaya" },
+      { "image": "/starter2/images/proses.webp", "alt": "Gallery 2", "title":"Proses Cepat" },
+      { "image": "/starter2/images/jabat.webp", "alt": "Gallery 3", "title":"Solusi Terbaik" },
+      { "image": "/starter2/images/puas.webp", "alt": "Gallery 4", "title":"Kepuasan" }
     ],
     "services": [
       {
